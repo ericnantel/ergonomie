@@ -102,12 +102,34 @@ Parfois il arrive que la culture au travail, vous empêche de maintenir une bonn
 ---
 
 ## Ergonomie professionnelle
-À compléter..
+
+Au travail, vous utilisez probablement des outils pour compléter vos tâches.
+
+Que ce soit du papier ou des logiciels dans votre ordinateur.
+
+Idéalement, vous devriez faire en sorte d'utiliser les meilleurs outils pour vous, puisqu'ainsi vous serez en mesure d'effectuer le plus de tâches dans une journée.
+
+### Conseils
+* Essayez d'abord un outil, pour savoir s'il vous convient
+* Assurez-vous que votre patron couvre les frais de bureau
+* Parfois il faut apprendre à utiliser un nouvel outil, mais il faut que ça vaille le coût
+* Évitez d'utiliser trop d'outils pour une simple tâche
+* Créez-vous un système ou une routine de travail pour vos tâches journalières
+* Calculez le temps que ça vous prend pour accomplir une certaine tâche et voyez si vous pouvez faire mieux la prochaine fois
+
+De façon générale, si vous utilisez les bons outils, vous devriez être plus productif(ve).
 
 ---
 
 ## Conclusion
-À compléter..
+
+Si vous devez retenir une chose aujourd'hui, c'est la suivante:
+
+* Cherchez continuellement à vous perfectionner, et rendre votre travail moins pénible.
+* Devenez la meilleure personne que vous pouvez être au bureau
+* Aimez votre travail et ne soyez pas trop stressé(e)
+* Devenez productif(ve) pour vous faire remarquer et gravir les échellons
+* Surtout ne ramener pas votre travail à la maison
 
 ---
 
